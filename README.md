@@ -4,19 +4,19 @@ This is the repository for our first group project at code.
 
 ## Organization
 
-#### Proposals for **collaboration**: 
+### Proposals for **collaboration**: 
 
 Taskmanagement via **Trello**. 
 Collaborative Coding via **Git**.
 
-#### Proposal for project development: 
+### Proposal for project development: 
 
 - Split project in 3 sprints 
 - Specify goals for each week
 - Do extensive **phyiscal review meeting** at least once a week 
 
 
-#### Proposal for feedbackloop: 
+### Proposal for feedbackloop: 
 
 **General:**
 Generally we should always be available and accountable to help each other --> main slack channel 
