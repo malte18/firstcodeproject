@@ -1,2 +1,3 @@
 # firstcodeproject
-repository for first project at code
+
+This is the repository for our first gtoup project at code.
