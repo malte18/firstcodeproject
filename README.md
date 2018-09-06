@@ -1,6 +1,6 @@
 # firstcodeproject
 
-This is the repository for our first gtoup project at code.
+This is the repository for our first group project at code.
 
 ## Organization
 
