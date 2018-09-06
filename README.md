@@ -1,4 +1,4 @@
-# firstcodeproject
+# Firstcodeproject
 
 This is the repository for our first group project at code.
 
