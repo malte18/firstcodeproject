@@ -4,11 +4,28 @@ This is the repository for our first gtoup project at code.
 
 ## Organization
 
-Proposals: 
+#### Proposals for **collaboration**: 
 
 Taskmanagement via **Trello**. 
 Collaborative Coding via **Git**.
 
+#### Proposal for project development: 
+
+- Split project in 3 sprints 
+- Specify goals for each week
+- Do extensive **phyiscal review meeting** at least once a week 
+
+
+#### Proposal for feedbackloop: 
+
+**General:**
+Generally we should always be available and accountable to help each other --> main slack channel 
+
+**Standups:** 
+3 times a week, quick 5 minute call or physical meeting checking whether anyone got specific blockers in their way / needs help at a specific point. 
+
+**Weekly extensive standup:**
+Extsnesive review, identify problems and re-allocate resources if needed 
 
 ## Get started learning git 
 
